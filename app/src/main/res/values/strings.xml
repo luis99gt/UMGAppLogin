@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UMGAppLogin</string>
+    <string name="txt1">user:</string>
+    <string name="txt2">password:</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_register">Register</string>
+
+</resources>
